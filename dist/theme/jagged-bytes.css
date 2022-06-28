@@ -1,0 +1,116 @@
+.reveal {
+  font-family: 'Overpass Mono', monospace; }
+
+h1 {
+  font-family: 'Josefin Sans', Arial, sans-serif;
+  font-size: 6em;
+  font-weight: bold;
+  padding-bottom: .4em;
+  text-align: left; }
+
+h2 {
+  font-family: 'Josefin Sans', Arial, sans-serif;
+  font-size: 4em;
+  font-weight: bold; }
+
+p {
+  font-size: 2em;
+  line-height: 1.4em;
+  text-align: left; }
+
+a {
+  color: gray;
+  display: block;
+  text-align: left;
+  text-decoration: none; }
+  a:hover {
+    color: black;
+    text-decoration: underline; }
+
+img {
+  padding-bottom: 1em;
+  width: 100%; }
+
+.list {
+  position: absolute;
+  width: 500px;
+  text-align: left; }
+
+ul {
+  text-align: left;
+  margin: 20px 0 2em 27px; }
+  ul li {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    padding-bottom: 12px; }
+
+table {
+  text-align: left; }
+  table thead {
+    font-weight: bold; }
+    table thead th {
+      font-family: 'Josefin Sans', Arial, sans-serif;
+      font-size: 1.5em;
+      padding: .5em; }
+  table tbody td {
+    border: 2px solid black;
+    padding: 1em; }
+    table tbody td ol {
+      margin-left: 2em; }
+      table tbody td ol li {
+        padding-bottom: .5em; }
+
+#trade {
+  position: absolute;
+  bottom: 217px;
+  left: 283px;
+  width: 150px;
+  height: 150px;
+  border: 4px solid red;
+  border-radius: 150px; }
+
+#transport {
+  position: absolute;
+  bottom: 7px;
+  right: 226px;
+  width: 225px;
+  height: 225px;
+  border: 4px solid red;
+  border-radius: 150px; }
+
+#warehouse {
+  position: absolute;
+  top: 94px;
+  left: -34px;
+  width: 150px;
+  height: 150px;
+  border: 4px solid red;
+  border-radius: 150px; }
+
+#distribute {
+  position: absolute;
+  bottom: 90px;
+  left: 12px;
+  width: 225px;
+  height: 225px;
+  border: 4px solid red;
+  border-radius: 225px; }
+
+#finance {
+  position: absolute;
+  bottom: 19px;
+  right: 19px;
+  width: 150px;
+  height: 150px;
+  border: 4px solid red;
+  border-radius: 150px; }
+
+.caption {
+  background: red;
+  color: white;
+  font-size: 1em;
+  top: 13px;
+  position: relative;
+  width: 150px;
+  padding: 3px 0 1px 6px;
+  text-align: left; }

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="700"
+   viewBox="0 0 264.58333 185.20834"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="commerce-rhumbline-network-w-lines-3.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1746">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix1742" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.2"
+         result="composite"
+         id="feComposite1744" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1752">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix1748" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.2"
+         result="composite"
+         id="feComposite1750" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1758">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix1754" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.2"
+         result="composite"
+         id="feComposite1756" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1764">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix1760" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.2"
+         result="composite"
+         id="feComposite1762" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB"
+       id="filter3704">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix3700" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.3"
+         result="composite"
+         id="feComposite3702"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB"
+       id="filter3656">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix3652" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.3"
+         result="composite"
+         id="feComposite3654"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB"
+       id="filter3656-8">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix3652-5" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.3"
+         result="composite"
+         id="feComposite3654-9"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB"
+       id="filter3656-2">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix3652-56" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.3"
+         result="composite"
+         id="feComposite3654-0"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="542.60593"
+     inkscape:cy="272.13905"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1934"
+     inkscape:window-height="1061"
+     inkscape:window-x="539"
+     inkscape:window-y="219"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12, 2.12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3656-2)"
+       d="m 172.35715,98.047017 56.15829,33.984123"
+       id="path970" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12, 2.12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3656-8)"
+       d="m 157.31372,144.5381 71.20172,-12.50696"
+       id="path970-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2.11666654,2.11666654;stroke-dashoffset:0"
+       d="M 157.31372,144.5381 85.258986,97.553374 96.913101,73.402983 l 68.526729,-5.783797 6.91732,30.427832"
+       id="path1620" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 157.31372,144.5381 96.913101,73.402983 172.35715,98.047018 Z"
+       id="path1586" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.36997;stop-color:#000000"
+       id="rect853-0"
+       width="85.453056"
+       height="12.723752"
+       x="8.0782185"
+       y="56.795395" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.36997;stop-color:#000000;filter:url(#filter1764)"
+       id="rect853-0-1"
+       width="85.453056"
+       height="12.723752"
+       x="14.627881"
+       y="126.71166" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.36997;stop-color:#000000"
+       id="rect853-0-1-5"
+       width="85.453056"
+       height="12.723752"
+       x="160.84657"
+       y="148.5603" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.36997;stop-color:#000000"
+       id="rect853-0-1-5-0"
+       width="85.453056"
+       height="12.723752"
+       x="175.80965"
+       y="81.67675" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.36997;stop-color:#000000;filter:url(#filter1746)"
+       id="rect853"
+       width="85.453056"
+       height="12.723752"
+       x="139.6907"
+       y="23.434525" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono';stroke-width:0.264583"
+       x="142.19475"
+       y="33.110706"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="142.19475"
+         y="33.110706"
+         style="font-size:8.46667px;fill:#ffffff;stroke-width:0.264583">Trade</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono';stroke-width:0.264583"
+       x="178.55592"
+       y="90.638687"
+       id="text839"><tspan
+         sodipodi:role="line"
+         id="tspan837"
+         x="178.55592"
+         y="90.638687"
+         style="font-size:8.46667px;fill:#ffffff;stroke-width:0.264583">Transport</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono';stroke-width:0.264583"
+       x="11.263698"
+       y="66.145844"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="11.263698"
+         y="66.145844"
+         style="font-size:8.46667px;fill:#ffffff;stroke-width:0.264583">Warehouse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono';stroke-width:0.264583"
+       x="163.96605"
+       y="158.06964"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="163.96605"
+         y="158.06964"
+         style="font-size:8.46667px;fill:#ffffff;stroke-width:0.264583">Communicate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono';stroke-width:0.264583"
+       x="17.689276"
+       y="136.29817"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="17.689276"
+         y="136.29817"
+         style="font-size:8.46667px;fill:#ffffff;stroke-width:0.264583">Finance</tspan></text>
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:1.32291667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000;filter:url(#filter1752)"
+       id="path925"
+       cx="136.18492"
+       cy="39.876488"
+       r="2.4568453" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:1.32291667;stop-color:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path925-6"
+       cx="96.913101"
+       cy="73.402985"
+       r="2.4568453" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:1.32291667;stop-color:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path925-6-9"
+       cx="172.35715"
+       cy="98.04702"
+       r="2.4568453" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:1.32291667;stop-color:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path925-6-9-9"
+       cx="157.31372"
+       cy="144.5381"
+       r="2.4568453" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:1.32291667;stop-color:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1758)"
+       id="path925-6-9-9-7"
+       cx="103.86784"
+       cy="122.91785"
+       r="2.4568453" />
+    <circle
+       style="fill:#808080;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path925-6-7"
+       cx="85.258987"
+       cy="97.553375"
+       r="2.4568453" />
+    <circle
+       style="fill:#808080;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path925-6-7-5"
+       cx="165.43983"
+       cy="67.619186"
+       r="2.4568453" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono';fill:#ff0000;stroke-width:0.264583"
+       x="151.32295"
+       y="150.75073"
+       id="text865"><tspan
+         sodipodi:role="line"
+         id="tspan863"
+         x="151.32295"
+         y="150.75073"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono Bold';fill:#ff0000;stroke-width:0.264583">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono';fill:#ff0000;stroke-width:0.264583"
+       x="99.022125"
+       y="70.193764"
+       id="text865-2"><tspan
+         sodipodi:role="line"
+         id="tspan863-4"
+         x="99.022125"
+         y="70.193764"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono Bold';fill:#ff0000;stroke-width:0.264583">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono';fill:#ff0000;stroke-width:0.264583"
+       x="165.28079"
+       y="103.46807"
+       id="text865-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan863-4-6"
+         x="165.28079"
+         y="103.46807"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono Bold';fill:#ff0000;stroke-width:0.264583">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono';fill:#ff0000;stroke-width:0.264583"
+       x="78.212708"
+       y="103.78376"
+       id="text865-0"><tspan
+         sodipodi:role="line"
+         id="tspan863-9"
+         x="78.212708"
+         y="103.78376"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono Bold';fill:#808080;stroke-width:0.264583">A'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono';fill:#ff0000;stroke-width:0.264583"
+       x="158.28876"
+       y="64.30307"
+       id="text865-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan863-4-2"
+         x="158.28876"
+         y="64.30307"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono Bold';fill:#808080;stroke-width:0.264583">B'</tspan></text>
+    <circle
+       style="fill:#cccccc;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path925-6-7-6-5-8-4"
+       cx="228.51544"
+       cy="132.03114"
+       r="2.4568453" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono';fill:#cccccc;stroke-width:0.264583;fill-opacity:1;"
+       x="230.39767"
+       y="128.98119"
+       id="text865-2-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan863-4-2-1"
+         x="230.39767"
+         y="128.98119"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono Bold';fill:#cccccc;stroke-width:0.264583;fill-opacity:1;">C'</tspan></text>
+  </g>
+</svg>
